@@ -1,0 +1,3 @@
+font-family: 'Abril Fatface', cursive;  -h6
+
+font-family: 'Playfair Display', serif; -h2
